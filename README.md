@@ -1,10 +1,10 @@
-## Hi there 👋
+## 👋 Hi there
+
+### 💻 Tech Stack
+
+![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,neovim,fsharp,ts,rust,dotnet,node,postgresql,hono,zod,astro,svelte,tailwindcss)
 
 <!--
-**akhansari/akhansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
