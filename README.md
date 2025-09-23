@@ -5,14 +5,20 @@
 Tools:\
 ![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,nushell,neovim,ghostty)
 
-Database:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql)
+Infra:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql,docker,nats)
 
 Backend:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,rust,ts,effect)
+![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,ts,node,effectts,hono,zod,drizzle,dotnet,terraform)
 
 Frontend:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=ts,fsharp,node,effect,hono,zod,astro,svelte,tailwindcss)
+![Tech Stack](https://skills.syvixor.com/api/icons?i=ts,vite,astro,svelte,tailwindcss,fsharp,webassembly)
+
+Learning:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=rust,ocaml)
+
+If no choice:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=aws,azure,csharp)
 
 <!--
 - 🔭 I’m currently working on ...
