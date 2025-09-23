@@ -6,7 +6,7 @@ Tools:\
 ![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,nushell,neovim,ghostty)
 
 Infra:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql,docker,terraform)
+![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql,docker,terraform,opentelemetry,datadog,grafana)
 
 Backend:\
 ![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,dotnet,ts,node,effect,hono,zod,drizzle)
