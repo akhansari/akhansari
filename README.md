@@ -9,7 +9,7 @@ Infra:\
 ![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql,docker,nats)
 
 Backend:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,ts,node,effectts,hono,zod,drizzle,dotnet,terraform)
+![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,ts,node,effect,hono,zod,drizzle,dotnet,terraform)
 
 Frontend:\
 ![Tech Stack](https://skills.syvixor.com/api/icons?i=ts,vite,astro,svelte,tailwindcss,fsharp,webassembly)
