@@ -1,8 +1,18 @@
 ## 👋 Hi there
 
-### 💻 Tech Stack
+### 💻 Favorite Tech Stack
 
-![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,neovim,fsharp,ts,rust,dotnet,node,postgresql,hono,zod,astro,svelte,tailwindcss)
+Tools:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,nushell,neovim,ghostty)
+
+Database:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql)
+
+Backend:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,rust,ts,effect)
+
+Frontend:\
+![Tech Stack](https://skills.syvixor.com/api/icons?i=ts,fsharp,node,effect,hono,zod,astro,svelte,tailwindcss)
 
 <!--
 - 🔭 I’m currently working on ...
