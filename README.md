@@ -1,24 +1,10 @@
 ## 👋 Hi there
 
-### 💻 Favorite Tech Stack
+Hi, I am Amin Khansari, an architect and programmer based in France.
 
-Tools:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=linux,nushell,neovim,ghostty)
+I am passionate about socio-technical architecture, defensive design and simple boring sustainable λ code.
 
-Infra:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=postgresql,docker,terraform,opentelemetry,datadog,grafana)
-
-Backend:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=fsharp,dotnet,ts,node,effect,hono,zod,drizzle)
-
-Frontend:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=ts,vite,astro,svelte,tailwindcss,fsharp,webassembly)
-
-Learning:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=rust,ocaml)
-
-If no choice:\
-![Tech Stack](https://skills.syvixor.com/api/icons?i=aws,azure,csharp)
+https://akhansari.tech/who-am-i
 
 <!--
 - 🔭 I’m currently working on ...
