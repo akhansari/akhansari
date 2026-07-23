@@ -2,8 +2,6 @@
 
 Hi, I am Amin Khansari, an architect and programmer based in France.
 
-I am passionate about socio-technical architecture, defensive design and simple boring sustainable λ code.
-
 https://akhansari.tech/who-am-i
 
 <!--
