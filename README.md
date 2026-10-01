@@ -1,8 +1,10 @@
 ## 👋 Hi there
 
-Hi, I am Amin Khansari, an architect and programmer based in France.
-
+Hi, I am Amin Khansari, an architect and software engineer based in France.\
 https://akhansari.tech/who-am-i
+
+Find my personal projects on GitLab:\
+https://gitlab.com/users/akhansari/projects
 
 <!--
 - 🔭 I’m currently working on ...
